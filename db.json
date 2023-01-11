@@ -1,28 +1,138 @@
 {
-    "generos": [
+    "cinema": [
         {
             "id": 1,
-            "titulo": "Acao"
+            "genero": "Acao",
+            "filmes" : [
+                {
+                    "id": 7,
+                    "nome": "duro de matar" 
+                },
+                {
+                    "id": 8,
+                    "nome": "filme2" 
+                },
+                {
+                    "id": 9,
+                    "nome": "filme3" 
+                },
+                {
+                    "id": 10,
+                    "nome": "filme4" 
+                },
+                {
+                    "id": 11,
+                    "nome": "filme5" 
+                }
+            ]
         },
         {
           "id": 2,
-          "titulo": "terror"
+          "genero": "terror",
+            "filmes" : [
+                {
+                    "id": 12,
+                    "nome": "invocacao do mal" 
+                },
+                {
+                    "id": 13,
+                    "nome": "filme2" 
+                },
+                {
+                    "id": 14,
+                    "nome": "filme3" 
+                },
+                {
+                    "id": 15,
+                    "nome": "filme4" 
+                },
+                {
+                    "id": 16,
+                    "nome": "filme5" 
+                }
+            ]
       },
       {
           "id": 3,
-          "titulo": "drama"  
+          "genero": "drama",
+          "filmes" : [
+              {
+                  "id": 17,
+                  "nome": "um olhar no paraiso" 
+              },
+              {
+                  "id": 18,
+                  "nome": "filme2" 
+              },
+              {
+                  "id": 19,
+                  "nome": "filme3" 
+              },
+              {
+                  "id": 20,
+                  "nome": "filme4" 
+              },
+              {
+                  "id": 21,
+                  "nome": "filme5" 
+              }
+          ] 
       },
       {
           "id": 4,
-          "titulo": "romance"
+          "genero": "romance",
+          "filmes" : [
+              {
+                  "id": 22,
+                  "nome": "diario de uma paixao" 
+              },
+              {
+                  "id": 23,
+                  "nome": "filme2" 
+              },
+              {
+                  "id": 24,
+                  "nome": "filme3" 
+              },
+              {
+                  "id": 25,
+                  "nome": "filme4" 
+              },
+              {
+                  "id": 26,
+                  "nome": "filme5" 
+              }
+          ]
       },
       {
           "id": 5,
-          "titulo": "drama"
+          "genero": "ficcao cientifica",
+          "filmes" : [
+              {
+                  "id": 7,
+                  "nome": "moonfall" 
+              },
+              {
+                  "id": 8,
+                  "nome": "filme2" 
+              },
+              {
+                  "id": 9,
+                  "nome": "filme3" 
+              },
+              {
+                  "id": 10,
+                  "nome": "filme4" 
+              },
+              {
+                  "id": 11,
+                  "nome": "filme5" 
+              }
+          ]
       },
       {
           "id":6,
-          "titulo": "comedia"
+          "genero": "comedia"
       }
     ]
   }
