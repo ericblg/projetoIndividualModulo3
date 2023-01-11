@@ -2,29 +2,27 @@
     "generos": [
         {
             "id": 1,
-            "titulo": "Acao",
-            "status": true
+            "titulo": "Acao"
         },
         {
           "id": 2,
-          "titulo": "terror",
-          "status": true
+          "titulo": "terror"
       },
       {
           "id": 3,
-          "titulo": "drama",
-          "status": true
+          "titulo": "drama"  
       },
       {
           "id": 4,
-          "titulo": "romance",
-          "status": true
+          "titulo": "romance"
       },
       {
           "id": 5,
-          "titulo": "drama",
-          "status": true
+          "titulo": "drama"
+      },
+      {
+          "id":6,
+          "titulo": "comedia"
       }
     ]
-    
   }
