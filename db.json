@@ -1,0 +1,30 @@
+{
+    "generos": [
+        {
+            "id": 1,
+            "titulo": "Acao",
+            "status": true
+        },
+        {
+          "id": 2,
+          "titulo": "terror",
+          "status": true
+      },
+      {
+          "id": 3,
+          "titulo": "drama",
+          "status": true
+      },
+      {
+          "id": 4,
+          "titulo": "romance",
+          "status": true
+      },
+      {
+          "id": 5,
+          "titulo": "drama",
+          "status": true
+      }
+    ]
+    
+  }
