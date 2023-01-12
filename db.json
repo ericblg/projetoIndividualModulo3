@@ -1,138 +1,41 @@
 {
-    "cinema": [
+    "Filmes": [
         {
             "id": 1,
             "genero": "Acao",
-            "filmes" : [
-                {
-                    "id": 7,
-                    "nome": "duro de matar" 
-                },
-                {
-                    "id": 8,
-                    "nome": "filme2" 
-                },
-                {
-                    "id": 9,
-                    "nome": "filme3" 
-                },
-                {
-                    "id": 10,
-                    "nome": "filme4" 
-                },
-                {
-                    "id": 11,
-                    "nome": "filme5" 
-                }
-            ]
+            "Nome": "Duro de matar 4.0",
+            "Sinopse": "Enquanto a nação se prepara para comemorar o Dia da Independência, o policial veterano John McClane cumpre outra missão de rotina: trazer um hacker para ser interrogado. Enquanto isso, um vilão chamado Thomas Gabriel lança um ataque contra a infraestrutura dos computadores dos Estados Unidos. Quando o caos começa a se instaurar ao seu redor, McClane é forçado a usar os seus métodos antigos para lutar contra uma ameaça de alta tecnologia."
+            
         },
         {
           "id": 2,
-          "genero": "terror",
-            "filmes" : [
-                {
-                    "id": 12,
-                    "nome": "invocacao do mal" 
-                },
-                {
-                    "id": 13,
-                    "nome": "filme2" 
-                },
-                {
-                    "id": 14,
-                    "nome": "filme3" 
-                },
-                {
-                    "id": 15,
-                    "nome": "filme4" 
-                },
-                {
-                    "id": 16,
-                    "nome": "filme5" 
-                }
-            ]
+          "genero": "Terror",
+          "Nome": "Invocacao do mal",
+          "Sinopse": "Os investigadores paranormais Ed e Lorraine Warren trabalham para ajudar a família aterrorizada por uma entidade demoníaca em sua fazenda."
       },
       {
           "id": 3,
-          "genero": "drama",
-          "filmes" : [
-              {
-                  "id": 17,
-                  "nome": "um olhar no paraiso" 
-              },
-              {
-                  "id": 18,
-                  "nome": "filme2" 
-              },
-              {
-                  "id": 19,
-                  "nome": "filme3" 
-              },
-              {
-                  "id": 20,
-                  "nome": "filme4" 
-              },
-              {
-                  "id": 21,
-                  "nome": "filme5" 
-              }
-          ] 
+          "genero": "Drama",
+          "Nome": "Coracoes de ferro",
+          "Sinopse": "Durante o final da Segunda Guerra Mundial, o sargento Don Wardaddy lidera um grupo de apenas cinco soldados norte-americanos encarregado de aniquilar os nazistas. Em um tanque de guerra Sherman, os homens enfrentam uma missão mortal. Apesar da desvantagem numérica, falta de armas e um soldado inexperiente, Wardaddy e seus homens se movimentam em um ataque espetacular no coração da Alemanha nazista." 
       },
       {
           "id": 4,
-          "genero": "romance",
-          "filmes" : [
-              {
-                  "id": 22,
-                  "nome": "diario de uma paixao" 
-              },
-              {
-                  "id": 23,
-                  "nome": "filme2" 
-              },
-              {
-                  "id": 24,
-                  "nome": "filme3" 
-              },
-              {
-                  "id": 25,
-                  "nome": "filme4" 
-              },
-              {
-                  "id": 26,
-                  "nome": "filme5" 
-              }
-          ]
+          "genero": "Romance",
+          "Nome": "Nasce uma estrela",
+          "Sinopse": "Jackson Maine é um cantor no auge da fama. Um dia, após deixar uma apresentação, ele para em um bar para beber. Lá, Jackson conhece Ally, uma insegura cantora que ganha a vida trabalhando em um restaurante. Ele se encanta por ela e seu talento. Mais tarde, os dois acabam se casando. Ao mesmo tempo em que Ally desponta para o estrelato, Jackson vive uma crise pessoal e profissional devido aos problemas com o álcool. Os momentos opostos acabam por minar o relacionamento amoroso do casal."
       },
       {
           "id": 5,
-          "genero": "ficcao cientifica",
-          "filmes" : [
-              {
-                  "id": 7,
-                  "nome": "moonfall" 
-              },
-              {
-                  "id": 8,
-                  "nome": "filme2" 
-              },
-              {
-                  "id": 9,
-                  "nome": "filme3" 
-              },
-              {
-                  "id": 10,
-                  "nome": "filme4" 
-              },
-              {
-                  "id": 11,
-                  "nome": "filme5" 
-              }
-          ]
+          "genero": "Ficcao cientifica",
+          "Nome": "Interestelar",
+          "Sinopse": "As reservas naturais da Terra estão chegando ao fim e um grupo de astronautas recebe a missão de verificar possíveis planetas para receberem a população mundial, possibilitando a continuação da espécie. Cooper é chamado para liderar o grupo e aceita a missão sabendo que pode nunca mais ver os filhos. Ao lado de Brand, Jenkins e Doyle, ele seguirá em busca de um novo lar."
       },
       {
           "id":6,
-          "genero": "comedia"
+          "genero": "Comedia",
+          "Nome": "Gente grande",
+          "Sinopse": "A morte do treinador de basquete da infância de velhos amigos reúne a turma no mesmo lugar que celebraram um campeonato anos atrás. Os amigos, acompanhados de suas esposas e filhos, descobrem que idade não significa o mesmo que maturidade."
       }
     ]
   }
