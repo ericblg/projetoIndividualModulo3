@@ -5,22 +5,22 @@
             "Duracao": "2h 9min",
             "Nome": "Duro de matar 4.0",
             "Sinopse": "Enquanto a nação se prepara para comemorar o Dia da Independência, o policial veterano John McClane cumpre outra missão de rotina: trazer um hacker para ser interrogado. Enquanto isso, um vilão chamado Thomas Gabriel lança um ataque contra a infraestrutura dos computadores dos Estados Unidos. Quando o caos começa a se instaurar ao seu redor, McClane é forçado a usar os seus métodos antigos para lutar contra uma ameaça de alta tecnologia."   
-        }]
-{
+        }],
     "Terror": [
         {
             "id": 2,
             "Duracao": "1h 50min",
             "Nome": "Invocacao do mal",
             "Sinopse": "Os investigadores paranormais Ed e Lorraine Warren trabalham para ajudar a família aterrorizada por uma entidade demoníaca em sua fazenda."
-        }]
-}       
+        }],
+        "Drama":[    
       {
           "id": 3,
           "Duracao": "2h 14min",
           "Nome": "Coracoes de ferro",
           "Sinopse": "Durante o final da Segunda Guerra Mundial, o sargento Don Wardaddy lidera um grupo de apenas cinco soldados norte-americanos encarregado de aniquilar os nazistas. Em um tanque de guerra Sherman, os homens enfrentam uma missão mortal. Apesar da desvantagem numérica, falta de armas e um soldado inexperiente, Wardaddy e seus homens se movimentam em um ataque espetacular no coração da Alemanha nazista." 
-      },
+      }],
+      "ficcao cientifica":
       {
           "id": 4,
           "Duracao": "2h 49min",
