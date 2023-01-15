@@ -1,30 +1,68 @@
 {
-    "Acao": [
-        {
-            "id": 1,
-            "Duracao": "2h 9min",
-            "Nome": "Duro de matar 4.0",
-            "Sinopse": "Enquanto a nação se prepara para comemorar o Dia da Independência, o policial veterano John McClane cumpre outra missão de rotina: trazer um hacker para ser interrogado. Enquanto isso, um vilão chamado Thomas Gabriel lança um ataque contra a infraestrutura dos computadores dos Estados Unidos. Quando o caos começa a se instaurar ao seu redor, McClane é forçado a usar os seus métodos antigos para lutar contra uma ameaça de alta tecnologia."   
-        }],
-    "Terror": [
-        {
-            "id": 2,
-            "Duracao": "1h 50min",
-            "Nome": "Invocacao do mal",
-            "Sinopse": "Os investigadores paranormais Ed e Lorraine Warren trabalham para ajudar a família aterrorizada por uma entidade demoníaca em sua fazenda."
-        }],
-        "Drama":[    
-      {
-          "id": 3,
-          "Duracao": "2h 14min",
-          "Nome": "Coracoes de ferro",
-          "Sinopse": "Durante o final da Segunda Guerra Mundial, o sargento Don Wardaddy lidera um grupo de apenas cinco soldados norte-americanos encarregado de aniquilar os nazistas. Em um tanque de guerra Sherman, os homens enfrentam uma missão mortal. Apesar da desvantagem numérica, falta de armas e um soldado inexperiente, Wardaddy e seus homens se movimentam em um ataque espetacular no coração da Alemanha nazista." 
-      }],
-      "ficcaoCientifica":
-      {
-          "id": 4,
-          "Duracao": "2h 49min",
-          "Nome": "Interestelar",
-          "Sinopse": "As reservas naturais da Terra estão chegando ao fim e um grupo de astronautas recebe a missão de verificar possíveis planetas para receberem a população mundial, possibilitando a continuação da espécie. Cooper é chamado para liderar o grupo e aceita a missão sabendo que pode nunca mais ver os filhos. Ao lado de Brand, Jenkins e Doyle, ele seguirá em busca de um novo lar."
-      }
+  "Acao": [
+    {
+      "Nome": "Duro de matar 4.0",
+      "Duracao": "2h 9min",
+      "Sinopse": "Enquanto a nação se prepara para comemorar o Dia da Independência, o policial veterano John McClane cumpre outra missão de rotina: trazer um hacker para ser interrogado. Enquanto isso, um vilão chamado Thomas Gabriel lança um ataque contra a infraestrutura dos computadores dos Estados Unidos. Quando o caos começa a se instaurar ao seu redor, McClane é forçado a usar os seus métodos antigos para lutar contra uma ameaça de alta tecnologia.",
+      "id": 1
+    },
+    {
+      "Nome": "Top Gun: Maverick",
+      "Duracao": "2h 11min",
+      "Sinopse": "Na sequência de Top Gun: Ases Indomáveis, acompanhamos a história de Pete “Maverick” Mitchell (Tom Cruise), um piloto à moda antiga da Marinha que coleciona muitas condecorações, medalhas de combate e grande reconhecimento pela quantidade de aviões inimigos abatidos nos últimos 30 anos. Entretanto, nada disso foi suficiente para sua carreira decolar, visto que ele deixou de ser um capitão e tornou-se um instrutor. A explicação para esse declínio é simples: Ele continua sendo o mesmo piloto rebelde de sempre, que não hesita em romper os limites e desafiar a morte. Nesta nova aventura, Maverick precisa provar que o fator humano ainda é fundamental no mundo contemporâneo das guerras tecnológicas. Após 34 anos do clássico, acompanhem o filme do premiado produtor Jerry Bruckheimer e de Joseph Kosinski, mesmo diretor de Tron: O Legado (2010) e Oblivion (2013).",
+      "id": 2
+    },
+    {
+      "Nome": "Vingadores: Ultimato",
+      "Duracao": "3h 1min",
+      "Sinopse": "Em Vingadores: Ultimato, após Thanos eliminar metade das criaturas vivas em Vingadores: Guerra Infinita, os heróis precisam lidar com a dor da perda de amigos e seus entes queridos. Com Tony Stark (Robert Downey Jr.) vagando perdido no espaço sem água nem comida, o Capitão América/Steve Rogers (Chris Evans) e a Viúva Negra/Natasha Romanov (Scarlett Johansson) precisam liderar a resistência contra o titã louco",
+      "id": 3
+    },
+    {
+      "Nome": "Uncharted: Fora do Mapa",
+      "Duracao": "1h 56min",
+      "Sinopse": "Baseado em uma das séries de videogame mais vendidas e aclamadas pela crítica de todos os tempos, Uncharted: Fora do Mapa serve como uma prequela para os jogos, seguindo o jovem explorador Nathan 'Nate' Drake (Tom Holland), descendente do grande explorador Francis Drake, antes de ser conhecido como um famoso explorador. Mas antes disso, Nate vivia uma vida pacata como bartender em uma cidade, mas acaba se envolvendo com um estranho que viria ser um dos seus mais confiáveis companheiros. Uncharted: Fora do Mapa mostra sua primeira aventura de caça ao tesouro com o sagaz parceiro Victor 'Sully' Sullivan (Mark Wahlberg). Os dois partem em uma perigosa busca pelo 'maior tesouro nunca encontrado', na cidade sul americana de El Dorado, mas a aventura acaba se estendendo por todo o mundo, enquanto rastreiam pistas que podem levar ao irmão há muito perdido de Nathan. Porém, mal sabiam eles que seriam perseguidos por um grupo de mercenários que também buscam pelo tesouro perdido.",
+      "id": 4
     }
+  ],
+  "Terror": [
+    {
+      "Nome": "Invocação do Mal",
+      "Duracao": "1h 50min",
+      "Sinopse": "Harrisville, Estados Unidos. Um casal (Ron Livinston e Lili Taylor) muda para uma casa nova ao lado de suas cinco filhas. Inexplicavelmente, estranhos acontecimentos começam a assustar as crianças, o pai e, principalmente, a mãe. Preocupada com algumas manchas que aparecem em seu corpo e com uma sequência de sustos que levou, ela decide procurar um famoso casal de investigadores paranormais (Patrick Wilson e Vera Farmiga), mas eles não aceitam o convite, acreditando ser somente mais um engano de pessoas apavoradas com canos que fazem barulhos durante a noite ou coisas do gênero. Porém, quando eles aceitam fazer uma visita ao local, descobrem que algo muito poderoso e do mal reside ali. Agora, eles precisam descobrir o que é e o porquê daquilo tudo acontecendo com os membros daquela família. É quando o passado começa a revelar uma entidade demoníaca querendo continuar sua trajetória de maldades.",
+      "id": 1
+    },
+    {
+      "Nome": "Brightburn - Filho das Trevas",
+      "Duracao": "1h 30min",
+      "Sinopse": "Quando uma criança alienígena cai no terreno de um casal da parte rural dos Estados Unidos, eles decidem criar o menino como seu filho. Porém, ao começar a descobrir seus poderes, ao invés de se tornar um herói para a humanidade, ele passa a aterrorizar a pequena cidade onde vive, se tornando uma força obscura na Terra.",
+      "id": 2
+    },
+    {
+      "Nome": "Invocação do Mal",
+      "Duracao": "1h 50min",
+      "Sinopse": "Harrisville, Estados Unidos. Um casal (Ron Livinston e Lili Taylor) muda para uma casa nova ao lado de suas cinco filhas. Inexplicavelmente, estranhos acontecimentos começam a assustar as crianças, o pai e, principalmente, a mãe. Preocupada com algumas manchas que aparecem em seu corpo e com uma sequência de sustos que levou, ela decide procurar um famoso casal de investigadores paranormais (Patrick Wilson e Vera Farmiga), mas eles não aceitam o convite, acreditando ser somente mais um engano de pessoas apavoradas com canos que fazem barulhos durante a noite ou coisas do gênero. Porém, quando eles aceitam fazer uma visita ao local, descobrem que algo muito poderoso e do mal reside ali. Agora, eles precisam descobrir o que é e o porquê daquilo tudo acontecendo com os membros daquela família. É quando o passado começa a revelar uma entidade demoníaca querendo continuar sua trajetória de maldades.",
+      "id": 3
+    },
+    {
+      "Nome": "Invocação do Mal",
+      "Duracao": "1h 50min",
+      "Sinopse": "H",
+      "id": 4
+    }
+  ],
+  "Drama": [
+    {
+      "Nome": "Coracoes de ferro",
+      "Duracao": "2h 14min",
+      "Sinopse": "Durante o final da Segunda Guerra Mundial, o sargento Don Wardaddy lidera um grupo de apenas cinco soldados norte-americanos encarregado de aniquilar os nazistas. Em um tanque de guerra Sherman, os homens enfrentam uma missão mortal. Apesar da desvantagem numérica, falta de armas e um soldado inexperiente, Wardaddy e seus homens se movimentam em um ataque espetacular no coração da Alemanha nazista.",
+      "id": 1
+    }
+  ],
+  "ficcaoCientifica": {
+    "Nome": "Interestelar",
+    "Duracao": "2h 49min",
+    "Sinopse": "As reservas naturais da Terra estão chegando ao fim e um grupo de astronautas recebe a missão de verificar possíveis planetas para receberem a população mundial, possibilitando a continuação da espécie. Cooper é chamado para liderar o grupo e aceita a missão sabendo que pode nunca mais ver os filhos. Ao lado de Brand, Jenkins e Doyle, ele seguirá em busca de um novo lar.",
+    "id": 1
+  }
+}
