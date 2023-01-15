@@ -39,30 +39,68 @@
       "id": 2
     },
     {
-      "Nome": "Invocação do Mal",
-      "Duracao": "1h 50min",
-      "Sinopse": "Harrisville, Estados Unidos. Um casal (Ron Livinston e Lili Taylor) muda para uma casa nova ao lado de suas cinco filhas. Inexplicavelmente, estranhos acontecimentos começam a assustar as crianças, o pai e, principalmente, a mãe. Preocupada com algumas manchas que aparecem em seu corpo e com uma sequência de sustos que levou, ela decide procurar um famoso casal de investigadores paranormais (Patrick Wilson e Vera Farmiga), mas eles não aceitam o convite, acreditando ser somente mais um engano de pessoas apavoradas com canos que fazem barulhos durante a noite ou coisas do gênero. Porém, quando eles aceitam fazer uma visita ao local, descobrem que algo muito poderoso e do mal reside ali. Agora, eles precisam descobrir o que é e o porquê daquilo tudo acontecendo com os membros daquela família. É quando o passado começa a revelar uma entidade demoníaca querendo continuar sua trajetória de maldades.",
+      "Nome": "O Iluminado",
+      "Duracao": "2h 23min",
+      "Sinopse": "Durante o inverno, um homem (Jack Nicholson) é contratado para ficar como vigia em um hotel no Colorado e vai para lá com a mulher (Shelley Duvall) e seu filho (Danny Lloyd). Porém, o contínuo isolamento começa a lhe causar problemas mentais sérios e ele vai se tornado cada vez mais agressivo e perigoso, ao mesmo tempo em que seu filho passa a ter visões de acontecimentos ocorridos no passado, que também foram causados pelo isolamento excessivo.",
       "id": 3
     },
     {
-      "Nome": "Invocação do Mal",
-      "Duracao": "1h 50min",
-      "Sinopse": "H",
+      "Nome": "Um Lugar Silencioso",
+      "Duracao": "1h 30min",
+      "Sinopse": "Um Lugar Silencioso mostra uma realidade pós-apocaliptica, onde a população da Terra foi dizimada por uma entidade assustadora que ataca quando escuta um menor sinal de barulho. Em uma fazenda dos Estados Unidos, acompanhamos uma família do meio-oeste que tenta se manter em total silêncio para sobreviver à ameaça que ronda a sua casa.",
       "id": 4
     }
   ],
   "Drama": [
     {
-      "Nome": "Coracoes de ferro",
+      "Nome": "Corações de Ferro",
       "Duracao": "2h 14min",
       "Sinopse": "Durante o final da Segunda Guerra Mundial, o sargento Don Wardaddy lidera um grupo de apenas cinco soldados norte-americanos encarregado de aniquilar os nazistas. Em um tanque de guerra Sherman, os homens enfrentam uma missão mortal. Apesar da desvantagem numérica, falta de armas e um soldado inexperiente, Wardaddy e seus homens se movimentam em um ataque espetacular no coração da Alemanha nazista.",
       "id": 1
+    },
+    {
+      "Nome": "1917",
+      "Duracao": "1h 59min",
+      "Sinopse": "Em 1917, os cabos Schofield (George MacKay) e Blake (Dean-Charles Chapman) são jovens soldados britânicos durante a Primeira Guerra Mundial. Quando eles são encarregados de uma missão aparentemente impossível, os dois precisam atravessar território inimigo, lutando contra o tempo, para entregar uma mensagem que pode salvar cerca de 1600 colegas de batalhão.",
+      "id": 2
+    },
+    {
+      "Nome": "Mulher Rei",
+      "Duracao": "2h 15min",
+      "Sinopse": "A Mulher Rei acompanha Nanisca (Viola Davis) que foi uma comandante do exército do Reino de Daomé, um dos locais mais poderosos da África nos séculos XVII e XIX. Durante o período, o grupo militar era composto apenas por mulheres que, juntas, combateram os colonizadores franceses, tribos rivais e todos aqueles que tentaram escravizar seu povo e destruir suas terras. Conhecidas como Agojie, o grupo foi criado por conta de sua população masculina enfrentar altas baixas na violência e guerra cada vez mais frequentes com os estados vizinhos da África Ocidental, o que levou Dahomey a ser forçado a dar anualmente escravos do sexo masculino, particularmente ao Império Oyo, que usou isso para troca de mercadorias como parte do crescente fenômeno do comércio de escravos na África Ocidental durante a Era dos Descobrimentos, o que fez com que mulheres fossem alistadas para o combate",
+      "id": 3
+    },
+    {
+      "Nome": "12 Indomáveis",
+      "Duracao": "2h 14min",
+      "Sinopse": "Após os atentados de 11 de setembro de 2001, o capitão Mitch Nelson (Chris Hemsworth) decide abandonar o posto de escritório recém-conquistado para retomar à ação. Ao lado de seu batalhão das Forças Especiais dos Estados Unidos, ele assume a responsabilidade se formar a primeira equipe a operar no Afeganistão após os ataques ao World Trade Center. Baseado em fatos reais.",
+      "id": 4
     }
   ],
-  "ficcaoCientifica": {
-    "Nome": "Interestelar",
-    "Duracao": "2h 49min",
-    "Sinopse": "As reservas naturais da Terra estão chegando ao fim e um grupo de astronautas recebe a missão de verificar possíveis planetas para receberem a população mundial, possibilitando a continuação da espécie. Cooper é chamado para liderar o grupo e aceita a missão sabendo que pode nunca mais ver os filhos. Ao lado de Brand, Jenkins e Doyle, ele seguirá em busca de um novo lar.",
-    "id": 1
-  }
+  "ficacaoCientifica": [
+    {
+      "Nome": "Interestelar",
+      "Duracao": "2h 49min",
+      "Sinopse": " lar.",
+      "id": 1
+    },
+    {
+      "Nome": "Moonfall - Ameaça Lunar",
+      "Duracao": "2h 00min",
+      "Sinopse": "Em Moonfall, por motivos desconhecidos, a Lua sai de sua órbita e passa a se deslocar em direção à Terra, podendo causar uma colisão em breve. A ex-astrounauta da NASA, Jo Fowler (Halle Berry), acha que pode resolver essa situação e impedir que o impacto aconteça, mas apenas um de seus colegas (Patrick Wilson) acredita nela. Em situação de emergência, um grupo de cientistas não especializados no assunto aceita a missão de ir até a Lua e impedir a colisão antes que a vida humana seja extinta. Mas ao chegarem lá, eles percebem que a Lua não é exatamente a pedra gigante orbitando a Terra que acharam que era. Com o mundo à beira da aniquilação, Jo Fowler precisará unir forças a um homem de seu passado e um teórico da conspiração para uma missão impossível no espaço, e salvar a humanidade.",
+      "id": 2
+    },
+    {
+      "Nome": "Duna",
+      "Duracao": "2h 36min",
+      "Sinopse": "Inspirado na série de livros de Frank Herbert, Duna se passa em um futuro longínquo. O Duque Leto Atreides administra o planeta desértico Arrakis, também conhecido como Duna, lugar de única fonte da substância rara chamada de 'melange', usada para estender a vida humana, chegar a velocidade da luz e garantir poderes sobrehumanos. Para isso ele manda seu filho, Paul Atreides (Timothée Chalamet), um jovem brilhante e talentoso que nasceu para ter um grande destino além de sua imaginação, e seus servos e concubina Lady Jessica (Rebecca Fergunson), que também é uma Bene Gesserit. Eles vão para Duna, afim de garantir o futuro de sua família e seu povo. Porém, uma traição amarga pela posse da melange faz com que Paul e Jessica fujam para os Fremen, nativos do planeta que vivem nos cantos mais longes do deserto.",
+      "id": 3
+    },
+    {
+      "Nome": "Interestelar",
+      "Duracao": "2h 30min",
+      "Sinopse": "Um agente da CIA conhecido como O Protagonista (John David Washington) é recrutado por uma organização misteriosa, chamada Tenet, para participar de uma missão de escala global. Eles precisam impedir que Andrei Sator (Kenneth Branagh), um renegado oligarca russo com meios de se comunicar com o futuro, inicie a Terceira Guerra Mundial. A organização está em posse de uma arma de fogo que consegue fazer o tempo correr ao contrário, acreditando que o objeto veio do futuro. Com essa habilidade em mãos, O Protagonista precisará usá-la como forma de se opor à ameaça que está por vir, impedindo que os planos de Sator se concretizem.",
+      "id": 4
+    }
+  ]
 }
